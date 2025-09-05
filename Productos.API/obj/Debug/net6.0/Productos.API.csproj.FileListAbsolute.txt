@@ -1,0 +1,191 @@
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Productos.API.exe
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Productos.API.deps.json
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Productos.API.runtimeconfig.json
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Productos.API.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Productos.API.pdb
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Bcl.Memory.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Productos.Domain.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Productos.Infrastructure.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Productos.Domain.pdb
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Productos.Infrastructure.pdb
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\Productos.API.csproj.AssemblyReference.cache
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\Productos.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\Productos.API.AssemblyInfoInputs.cache
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\Productos.API.AssemblyInfo.cs
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\Productos.API.csproj.CoreCompileInputs.cache
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\Productos.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\Productos.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\staticwebassets\msbuild.Productos.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Productos.API.props
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Productos.API.props
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Productos.API.props
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\scopedcss\bundle\Productos.API.styles.css
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\Producto.0DF6D825.Up2Date
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\Productos.API.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\refint\Productos.API.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\Productos.API.pdb
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\Productos.API.genruntimeconfig.cache
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\obj\Debug\net6.0\ref\Productos.API.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\appsettings.json
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Productos.API.exe
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Productos.API.deps.json
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Productos.API.runtimeconfig.json
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Productos.API.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Productos.API.pdb
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Dapper.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Bcl.Memory.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\System.ClientModel.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Productos.Domain.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Productos.Infrastructure.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Productos.Domain.pdb
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\bin\Debug\net6.0\Productos.Infrastructure.pdb
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\Productos.API.csproj.AssemblyReference.cache
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\Productos.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\Productos.API.AssemblyInfoInputs.cache
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\Productos.API.AssemblyInfo.cs
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\Productos.API.csproj.CoreCompileInputs.cache
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\Productos.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\Productos.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\Productos.API.sourcelink.json
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\staticwebassets\msbuild.Productos.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Productos.API.props
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Productos.API.props
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Productos.API.props
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\scopedcss\bundle\Productos.API.styles.css
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\Producto.0DF6D825.Up2Date
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\Productos.API.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\refint\Productos.API.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\Productos.API.pdb
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\Productos.API.genruntimeconfig.cache
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.API\obj\Debug\net6.0\ref\Productos.API.dll

@@ -1,0 +1,31 @@
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\bin\Debug\net6.0\Productos.Infrastructure.deps.json
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\bin\Debug\net6.0\Productos.Infrastructure.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\bin\Debug\net6.0\Productos.Infrastructure.pdb
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\bin\Debug\net6.0\Productos.Domain.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\bin\Debug\net6.0\Productos.Domain.pdb
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.AssemblyInfo.cs
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\obj\Debug\net6.0\Producto.EAA51887.Up2Date
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\obj\Debug\net6.0\refint\Productos.Infrastructure.dll
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.pdb
+C:\Users\ASUS Vivobook\source\repos\Productos\Productos.Infrastructure\obj\Debug\net6.0\ref\Productos.Infrastructure.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\bin\Debug\net6.0\Productos.Infrastructure.deps.json
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\bin\Debug\net6.0\Productos.Infrastructure.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\bin\Debug\net6.0\Productos.Infrastructure.pdb
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\bin\Debug\net6.0\Productos.Domain.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\bin\Debug\net6.0\Productos.Domain.pdb
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.csproj.AssemblyReference.cache
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.AssemblyInfoInputs.cache
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.AssemblyInfo.cs
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.sourcelink.json
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\obj\Debug\net6.0\Producto.EAA51887.Up2Date
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\obj\Debug\net6.0\refint\Productos.Infrastructure.dll
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\obj\Debug\net6.0\Productos.Infrastructure.pdb
+C:\Dev\personal\PROYECTO_PRODUCTOS\ProyectoProductosBack\Productos.Infrastructure\obj\Debug\net6.0\ref\Productos.Infrastructure.dll

@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Infrastructure\\Productos.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Domain\\Productos.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Domain\\Productos.Domain.csproj",
+        "projectName": "Productos.Domain",
+        "projectPath": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Domain\\Productos.Domain.csproj",
+        "packagesPath": "C:\\Users\\ASUS Vivobook\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS Vivobook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/Datascor/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.316\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Infrastructure\\Productos.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Infrastructure\\Productos.Infrastructure.csproj",
+        "projectName": "Productos.Infrastructure",
+        "projectPath": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Infrastructure\\Productos.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ASUS Vivobook\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS Vivobook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/Datascor/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Domain\\Productos.Domain.csproj": {
+                "projectPath": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Domain\\Productos.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.316\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
