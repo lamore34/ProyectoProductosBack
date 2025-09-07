@@ -1,8 +1,8 @@
 # ProyectoProductosBack
 
-Implementa un CRUD para productos
-Contiene Login para validar credenciales y generar token JWT
-Las API están protegidas con [Authorize] y realizan operaciones en base de datos por medio de procedimientos almacenados
+- Implementa un CRUD para productos
+- Contiene Login para validar credenciales y generar token JWT
+- Las API están protegidas con [Authorize] y realizan operaciones en base de datos por medio de procedimientos almacenados
 
 ## Tecnologías
 - [.NET 6]
