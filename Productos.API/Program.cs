@@ -12,6 +12,19 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
+#region CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowFrontend",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:4200")
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
+});
+#endregion CORS
+
 #region JWT
 var jwtSettings = builder.Configuration.GetSection("Jwt");
 var key = Encoding.UTF8.GetBytes(jwtSettings["Key"]);
@@ -59,6 +72,8 @@ builder.Services.AddSingleton(provider => new MapperConfiguration(cfg =>
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
+
+#region SWAGGER
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Productos API", Version = "v1" });
@@ -88,6 +103,7 @@ builder.Services.AddSwaggerGen(c =>
         }
     });
 });
+#endregion SWAGGER
 
 var app = builder.Build();
 
@@ -96,6 +112,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("AllowFrontend");
 
 app.UseHttpsRedirection();
 

@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69AAC23F-BDD8-4C8C-BBC3-181C0E76B4B2}|Productos.Domain\\Productos.Domain.csproj|c:\\dev\\personal\\proyecto_productos\\proyectoproductosback\\productos.domain\\dto\\productorequestcreardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AAC23F-BDD8-4C8C-BBC3-181C0E76B4B2}|Productos.Domain\\Productos.Domain.csproj|solutionrelative:productos.domain\\dto\\productorequestcreardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DC7526-437F-48FD-A621-BC729A794A69}|Productos.API\\Productos.API.csproj|c:\\dev\\personal\\proyecto_productos\\proyectoproductosback\\productos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DC7526-437F-48FD-A621-BC729A794A69}|Productos.API\\Productos.API.csproj|solutionrelative:productos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DC7526-437F-48FD-A621-BC729A794A69}|Productos.API\\Productos.API.csproj|c:\\dev\\personal\\proyecto_productos\\proyectoproductosback\\productos.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DC7526-437F-48FD-A621-BC729A794A69}|Productos.API\\Productos.API.csproj|solutionrelative:productos.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DC7526-437F-48FD-A621-BC729A794A69}|Productos.API\\Productos.API.csproj|c:\\dev\\personal\\proyecto_productos\\proyectoproductosback\\productos.api\\controllers\\unidadmedidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DC7526-437F-48FD-A621-BC729A794A69}|Productos.API\\Productos.API.csproj|solutionrelative:productos.api\\controllers\\unidadmedidacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AAC23F-BDD8-4C8C-BBC3-181C0E76B4B2}|Productos.Domain\\Productos.Domain.csproj|c:\\dev\\personal\\proyecto_productos\\proyectoproductosback\\productos.domain\\dto\\unidadmedidadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AAC23F-BDD8-4C8C-BBC3-181C0E76B4B2}|Productos.Domain\\Productos.Domain.csproj|solutionrelative:productos.domain\\dto\\unidadmedidadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AAC23F-BDD8-4C8C-BBC3-181C0E76B4B2}|Productos.Domain\\Productos.Domain.csproj|c:\\dev\\personal\\proyecto_productos\\proyectoproductosback\\productos.domain\\entities\\unidadmedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AAC23F-BDD8-4C8C-BBC3-181C0E76B4B2}|Productos.Domain\\Productos.Domain.csproj|solutionrelative:productos.domain\\entities\\unidadmedida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 31,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,6 +159,79 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoRequestCrearDto.cs",
+              "DocumentMoniker": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Domain\\DTO\\ProductoRequestCrearDto.cs",
+              "RelativeDocumentMoniker": "Productos.Domain\\DTO\\ProductoRequestCrearDto.cs",
+              "ToolTip": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Domain\\DTO\\ProductoRequestCrearDto.cs",
+              "RelativeToolTip": "Productos.Domain\\DTO\\ProductoRequestCrearDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T02:38:33.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.API\\Program.cs",
+              "RelativeDocumentMoniker": "Productos.API\\Program.cs",
+              "ToolTip": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.API\\Program.cs",
+              "RelativeToolTip": "Productos.API\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAHMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T02:10:28.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Productos.API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Productos.API\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T14:28:28.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnidadMedidaController.cs",
+              "DocumentMoniker": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.API\\Controllers\\UnidadMedidaController.cs",
+              "RelativeDocumentMoniker": "Productos.API\\Controllers\\UnidadMedidaController.cs",
+              "ToolTip": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.API\\Controllers\\UnidadMedidaController.cs",
+              "RelativeToolTip": "Productos.API\\Controllers\\UnidadMedidaController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:25:05.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnidadMedidaDto.cs",
+              "DocumentMoniker": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Domain\\DTO\\UnidadMedidaDto.cs",
+              "RelativeDocumentMoniker": "Productos.Domain\\DTO\\UnidadMedidaDto.cs",
+              "ToolTip": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Domain\\DTO\\UnidadMedidaDto.cs",
+              "RelativeToolTip": "Productos.Domain\\DTO\\UnidadMedidaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:23:54.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnidadMedida.cs",
+              "DocumentMoniker": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Domain\\Entities\\UnidadMedida.cs",
+              "RelativeDocumentMoniker": "Productos.Domain\\Entities\\UnidadMedida.cs",
+              "ToolTip": "C:\\Dev\\personal\\PROYECTO_PRODUCTOS\\ProyectoProductosBack\\Productos.Domain\\Entities\\UnidadMedida.cs",
+              "RelativeToolTip": "Productos.Domain\\Entities\\UnidadMedida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:23:51.523Z"
             }
           ]
         }
