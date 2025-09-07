@@ -20,6 +20,8 @@ namespace Productos.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Login([FromBody] UsuarioDto usuario)
         {
+            _logger.LogInformation("Ejecutando operación Login");
+
             try
             {
                 if (usuario == null)

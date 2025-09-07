@@ -28,6 +28,7 @@ namespace Productos.API.Controllers
         {
             try
             {
+                _logger.LogInformation("Ejecutando operación Get Llista de Productos");
                 var productos = await _service.GetProductos(codigo, nombre, estado, idUnidadMedida);
                 return Ok(productos);
             }
@@ -43,8 +44,8 @@ namespace Productos.API.Controllers
         {
             try
             {
-                var productos = await _service.GetProductos(codigo);
-                var producto = productos.FirstOrDefault();
+                _logger.LogInformation("Ejecutando operación Get Producto");
+                var producto = await _service.GetProducto(codigo);
 
                 if (producto == null)
                     return NotFound($"No se encontró el producto con codigo = {codigo}");
@@ -67,6 +68,7 @@ namespace Productos.API.Controllers
         {
             try
             {
+                _logger.LogInformation("Ejecutando operación Crear Producto");
                 if (producto == null)
                     return BadRequest("El producto no puede ser nulo");
 
@@ -93,6 +95,7 @@ namespace Productos.API.Controllers
         {
             try
             {
+                _logger.LogInformation("Ejecutando operación Actualizar Producto");
                 if (producto == null)
                     return BadRequest("No se ha proporcionado el producto");
 
@@ -119,6 +122,7 @@ namespace Productos.API.Controllers
         {
             try
             {
+                _logger.LogInformation("Ejecutando operación Eliminar Producto");
                 if (codigo <= 0)
                     return BadRequest("Debe enviar el codigo del producto");
 

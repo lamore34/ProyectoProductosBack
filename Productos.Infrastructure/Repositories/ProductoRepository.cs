@@ -45,7 +45,7 @@ namespace Productos.Infrastructure.Repositories
                     },
                     param: parametros,
                     commandType: CommandType.StoredProcedure,
-                    splitOn: "IdUnidadMedida"
+                    splitOn: "Id"
                 );
 
                 return productos.ToList();

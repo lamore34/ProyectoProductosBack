@@ -22,6 +22,12 @@ namespace Productos.Domain.Services
             var respuesta = await _repository.GetProductos(codigo, nombre, estado, idUnidadMedida);
             return _mapper.Map<IList<ProductoDto>>(respuesta);
         }
+        public async Task<Producto> GetProducto(int codigo)
+        {
+            var respuesta = await _repository.GetProductos(codigo);
+            Producto? producto = respuesta.FirstOrDefault();
+            return producto;
+        }
         public async Task<bool> Insert(ProductoRequestCrearDto producto)
         {
             bool respuesta = await _repository.Insert(producto);
